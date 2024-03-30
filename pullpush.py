@@ -20,5 +20,6 @@ array_length = len(my_array)  # Returns the number of elements in the array
 
 # Iterating over the array
 for element in my_array:
-    print(element)  # Prints each element in the remove array changes
-    # New line
+    print(element)  # Prints each element in the remove array
+    
+# Hi, [ts]
